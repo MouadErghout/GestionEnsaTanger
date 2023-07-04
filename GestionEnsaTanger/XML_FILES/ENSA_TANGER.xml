@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ENSA_TANGER.xsl"?>
+<ENSA_TANGER xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="Filieres Filieres.xsd">
+  <Filiere code="AP">
+    <Niveau code="AP1"></Niveau>
+    <Niveau code="AP2"></Niveau>
+  </Filiere>
+  <Filiere code="GINF">
+    <Niveau code="GINF1"></Niveau>
+    <Niveau code="GINF2">
+      <Eleve id="73" code="LF61594" nom="Mouad" prenom="ERGHOUT" niveau="GINF2" code_fil="GINF">
+        <DateSuppression date="samedi 8 avril 2023" heure="14:02:33" />
+      </Eleve>
+    </Niveau>
+    <Niveau code="GINF3"></Niveau>
+  </Filiere>
+  <Filiere code="GIL">
+    <Niveau code="GIL1"></Niveau>
+    <Niveau code="GIL2"></Niveau>
+    <Niveau code="GIL3"></Niveau>
+  </Filiere>
+  <Filiere code="GSTR">
+    <Niveau code="GSTR1"></Niveau>
+    <Niveau code="GSTR2"></Niveau>
+    <Niveau code="GSTR3"></Niveau>
+  </Filiere>
+  <Filiere code="GSEA">
+    <Niveau code="GSEA1"></Niveau>
+    <Niveau code="GSEA2"></Niveau>
+    <Niveau code="GSEA3"></Niveau>
+  </Filiere>
+  <Filiere code="G3EI">
+    <Niveau code="G3EI1"></Niveau>
+    <Niveau code="G3EI2"></Niveau>
+    <Niveau code="G3EI3"></Niveau>
+  </Filiere>
+</ENSA_TANGER>
